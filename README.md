@@ -15,7 +15,7 @@
 
 <h2 align="left">Extra Stuff</h3>
 
-- You can just execute the "main" file, that way you don't need to do anything extra.
+- You can just execute the "main.exe" file, that way you don't need to do anything extra.
 
 #### Check out my social stuff for more:
 
