@@ -10,7 +10,7 @@
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 7 files, containing the resource code to execute my small shopping program.
+1. In this simple GitHub Repository, I uploaded 7 files, containing the source code to execute my small shopping program.
 2. You don't need anything special to run the program.
 
 <h2 align="left">Extra Stuff</h3>
